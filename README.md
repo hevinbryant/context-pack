@@ -46,7 +46,10 @@ Modern AI assistants have large context windows (100k–200k tokens), but fillin
 ## Installation
 
 ```bash
-pip install context-pack
+# Install from source
+git clone https://github.com/hevinbryant/context-pack.git
+cd context-pack
+pip install -e .
 ```
 
 For accurate token counting (recommended):
