@@ -1,0 +1,6 @@
+click>=8.1
+rich>=13.0
+pyperclip>=1.8
+
+# Optional but recommended: accurate token counting
+# tiktoken>=0.6
