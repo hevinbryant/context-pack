@@ -1,0 +1,13 @@
+# .contextignore — files to exclude from AI context
+# Same syntax as .gitignore
+
+dist/
+build/
+*.egg-info/
+tests/fixtures/snapshots/
+data/
+*.csv
+*.parquet
+*.min.js
+*.min.css
+*.map
